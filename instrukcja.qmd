@@ -38,5 +38,3 @@ R.version.string
 ```
 
 ![Do sprawdzenia wersji RStudio nalezy w programie kliknac kolejno *Help\>\>About RStudio*](pictures/Zrzut%20ekranu%202022-11-23%20143005.jpg)
-
-siema siema o tej porze kazdy wypic moze
