@@ -1,0 +1,40 @@
+---
+title: "Instrukcja do połączenia RStudio i Git"
+author: "Tymoteusz Romanowicz"
+date: last-modified
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+## Czynnosci do wykonania przed polaczeniem RStudio i Git
+
+1.  Zaloz konto na GitHub.
+2.  Zainstaluj lub zaktualizuj R i RStudio.
+3.  Zainstaluj Git.
+4.  Przedstaw sie Git.
+5.  Wygeneruj klucz prywatny w RStudio do polaczenia z GitHub.
+
+## Ad 1.
+
+Wejdz na strone <https://github.com/> i zaloz darmowe konto na GitHub.
+
+![Wyglad pierwszej strony GitHub](pictures/Zrzut%20ekranu%202022-11-23%20142502.jpg){width="1000"}
+
+## Ad 2.
+
+Jesli nie posiadasz na komputerze programów R i RStudio, to zainstaluj je ze stron:
+
+-   [Strona R](http://r-project.org)
+
+-   [Strona RStudio](http://rstudio.com)
+
+Natomiast jesli posiadasz R i RStudio, to sprawdz jaka wersje oprogramowania posiadasz.
+
+```{r}
+# ta komenda pozwala sprawdzic wersje R
+R.version.string
+```
+
+![Do sprawdzenia wersji RStudio nalezy w programie kliknac kolejno *Help\>\>About RStudio*](pictures/Zrzut%20ekranu%202022-11-23%20143005.jpg)
